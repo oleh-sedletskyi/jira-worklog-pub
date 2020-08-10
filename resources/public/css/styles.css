@@ -1,0 +1,21 @@
+body {
+    background-color: Cornsilk;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+#header-links {
+    background-color: BurlyWood;
+    padding: 10px;
+}
+
+h1 {
+    color: CornflowerBlue;
+}
+
+tr:nth-child(even) {
+    background-color: #efdcc3;
+}
